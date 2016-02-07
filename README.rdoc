@@ -5,7 +5,6 @@ Subscription-based web application
 https://codermanual.com
 
 Things you may want to cover:
-
 * Ruby version
 
 * System dependencies
